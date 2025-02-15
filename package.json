@@ -1,0 +1,11 @@
+{
+  "name": "zod-review",
+  "version": "0.0.1",
+  "description": "A review and showcase of Zod, the TypeScript-first schema and validation library.",
+  "author": "Cory Leigh Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "zod": "^3.21.4"
+  }
+}
